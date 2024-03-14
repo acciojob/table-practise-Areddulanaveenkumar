@@ -1,8 +1,0 @@
-/*  your css code here. If applicable */
-.thead, .tdata, .trow {
-        border: 1px outset rgb(128, 128, 128);
-    }
-.trad{
-	background-color: yellow;
-	border: 1px outset rgb(128, 128, 128);
-}
