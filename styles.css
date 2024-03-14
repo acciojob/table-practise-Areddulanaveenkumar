@@ -1,9 +1,8 @@
 /*  your css code here. If applicable */
-th, td {
+.th, .td {
         border: 1px solid rgb(128,128,128);
-
-        
     }
-table{
+.table{
 	background-color: yellow;
+	border-color: solid rgb(128,128,128);
 }
