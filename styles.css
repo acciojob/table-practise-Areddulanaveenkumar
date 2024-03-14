@@ -1,10 +1,8 @@
 /*  your css code here. If applicable */
 .th, .td {
-        border: 1px;
-		border-color:solid rgb(0, 0, 0);
+        border: 1px outset rgb(128, 128, 128);
     }
 .table{
 	background-color: yellow;
-	border: 1px;
-	border-color: solid rgb(0, 0, 0);
+	border: 1px outset rgb(128, 128, 128);
 }
