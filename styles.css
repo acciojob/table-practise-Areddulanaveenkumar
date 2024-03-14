@@ -1,8 +1,8 @@
 /*  your css code here. If applicable */
-.th, .td {
+.thead, .tdata, .trow {
         border: 1px outset rgb(128, 128, 128);
     }
-.table{
+.trad{
 	background-color: yellow;
 	border: 1px outset rgb(128, 128, 128);
 }
