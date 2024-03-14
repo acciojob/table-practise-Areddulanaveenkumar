@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
 .th, .td {
         border: 1px;
-		border-color:solid rgb(128,128,128);
+		border-color:solid rgb(128, 128, 128);
     }
 .table{
 	background-color: yellow;
 	border: 1px;
-	border-color: solid rgb(128,128,128);
+	border-color: solid rgb(128, 128, 128);
 }
